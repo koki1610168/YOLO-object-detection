@@ -28,4 +28,7 @@ This enables me to train images even on my old mac book.
 
 ![alt text](./tokyo_output.png)
 
+** With passing a video as an input, you will get like this
+![alt text](./outputs/tokyo.gif)
+
 
