@@ -20,7 +20,7 @@ This enables me to train images even on my old mac book.
 
 ```
 
-	python image.py --input videos/____ --yolo yolo-coco
+	python image.py --input iamges/(PATH_TO_THE_IMAGE) --yolo yolo-coco
 
 ```
 
